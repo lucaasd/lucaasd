@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-#### - I’m currently learning on Node.js and Express.js
+#### - I'm currently learning on Node.js, Express.js and Docker.
