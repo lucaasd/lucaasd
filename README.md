@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-#### - 🌱 I'm currently learning on Docker.
+#### - 🌱 I'm currently learning Docker.
