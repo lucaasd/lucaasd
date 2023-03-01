@@ -1,3 +1,4 @@
 ## Hi there 👋
 
-#### - 🌱 I'm currently learning Docker and TypeScript.
+#### - I'm a backend Node.js developer.
+#### - I'm currently learning Docker and TypeScript.
