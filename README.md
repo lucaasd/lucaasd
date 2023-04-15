@@ -1,3 +1,3 @@
-## Hi there 👋
+## Olá, meu nome é Lucas👋
 
-#### - I'm a Node.js backend developer.
+#### Eu sou um desenvolvedor backend node.js
