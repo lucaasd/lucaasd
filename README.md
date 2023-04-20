@@ -12,6 +12,15 @@
 - Node.js
 - PostgreSQL
 
+### Frameworks
+
+- Express
+- TypeORM
+
 ### Estou aprendendo
 
 - Docker
+- NestJS
+- Princípios SOLID
+- Arquitetura de software
+- Design Patterns
