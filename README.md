@@ -24,3 +24,4 @@
 - Princípios SOLID
 - Arquitetura de software
 - Design Patterns
+- Java/Kotlin
