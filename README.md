@@ -1,6 +1,6 @@
 ## Olá, meu nome é Lucas👋
 
-### Eu sou um desenvolvedor backend node.js, atualmente estou estudando.
+### Eu sou um desenvolvedor backend Node.js, atualmente estou estudando.
 
 ### Linguagens de programação que uso
 
