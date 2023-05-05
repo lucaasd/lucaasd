@@ -15,14 +15,17 @@
 ### Frameworks
 
 - Express
-- TypeORM
+- Prisma
+- Next.js
+- Nest.js
 
 ### Estou aprendendo
 
 - Docker
-- NestJS
+- Nest.js
 - Princípios SOLID
 - Arquitetura de software
 - Design Patterns
 - Java/Kotlin
 - Next.js
+- Clean Architeture
