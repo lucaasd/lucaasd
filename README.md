@@ -26,6 +26,5 @@
 - Princípios SOLID
 - Arquitetura de software
 - Design Patterns
-- Java/Kotlin
 - Next.js
 - Clean Architeture
