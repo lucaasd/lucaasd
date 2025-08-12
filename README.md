@@ -1,4 +1,4 @@
-# Hello 🖐️!
+# Hello!
 
 ### I'm a C++/C# developer
 
